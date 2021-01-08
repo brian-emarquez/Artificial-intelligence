@@ -1,0 +1,11 @@
+body {
+    margin: 05%;
+    display: grid;
+    font-size: 162.5%;
+}
+#sitio {
+    display: inline-block;
+    padding: 30%;
+    font-size: 2em;
+  
+}
