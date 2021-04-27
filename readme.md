@@ -4,7 +4,7 @@
 <p align="center">
   
   </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Artificial-intelligence?color=red">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Artificial-intelligence?color=green">
   </a>
   <a href="https://github.com/BrianMarquez3/Artificial-intelligence/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Artificial-intelligence.svg?style=flat" alt="Stars">
@@ -12,10 +12,10 @@
   <a href="https://github.com/BrianMarquez3/Artificial-intelligence/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Artificial-intelligence.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Artificial-intelligence?color=blue&label=Version&logo=perl">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Artificial-intelligence?color=blue&label=Version&logo=python">
   </a>
   </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/PArtificial-intelligence">
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Artificial-intelligence">
   </a>
   </a>
     <img src="https://img.shields.io/github/downloads/BrianMarquez3/Artificial-intelligence/total?color=yellow">
@@ -61,23 +61,8 @@
       <td>Password</td>
   </tr>
 
-  <tr>
-      <td>Learning Perl</td>
-      <td>Randal L. Schwartz, brian d foy, and Tom Phoenix</td>
-      <td>Heather Scherer</td>
-      <td>Seventh Edition</td>
-      <td><a href="https://dubox.com/s/1-yT8j2d7Y6mKMu7A48gAPA">Learning Perl</a></td>
-      <td>sq76</td>
   </tr>
 
-  <tr>
-      <td>Penetration Testing with Perl</td>
-      <td>Douglas Berdeaux</td>
-      <td>-</td>
-      <td>-</td>
-      <td><a href="https://dubox.com/s/1gOPFrAd48NnBAsi6qW7G6g">Penetration Testing with Perl</a></td>
-      <td>gi9a</td>
-  </tr>
 
 </table>
 
