@@ -41,7 +41,7 @@
 
 | Numeration   | Check       | Sticker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Creador](#Creador)   | <img src="https://media.giphy.com/media/m5BQSNBFTzpZg9YZgH/giphy.gif" width="25px">    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Creador](#Creador)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 ----
