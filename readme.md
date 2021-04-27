@@ -39,7 +39,7 @@
 
 ## Table of Contents
 
-| Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| Numeration   | Check       | Sticker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/U27pVvzp6zJqfbBMaF/giphy.gif" width="25px"> | [Creador](#Creador)   | 🧠    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
