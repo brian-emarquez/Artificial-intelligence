@@ -44,8 +44,6 @@
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/U27pVvzp6zJqfbBMaF/giphy.gif" width="25px"> | [Creador](#Creador)   | 🧠    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
-
-
 ----
 
 ## Books
