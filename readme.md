@@ -41,7 +41,7 @@
 
 | Numeration   | Check       | Stiker        |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
-|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/StdESh75dRFjhQNemF/giphy.gif" width="25px"> | [Creador](#Creador)   | 🐫    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/U27pVvzp6zJqfbBMaF/giphy.gif" width="25px"> | [Creador](#Creador)   | 🧠    | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 
@@ -95,7 +95,7 @@ Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/line.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/arte.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
