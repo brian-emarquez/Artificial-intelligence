@@ -109,7 +109,7 @@ Estos científicos partieron de tres fuentes principales: conocimientos sobre la
 
 ### Nacimiento y evolución
 
-**John McCarthy*
+*John McCarthy*
 
 <table align="center">
   <tr>
@@ -138,7 +138,7 @@ En 1970 se avecina el primer invierno de la inteligencia artificial, que supone 
 
 Otro de los hitos que supuso un punto de inflexión se produjo en 1973 cuando se creó “Wave” el primer lenguaje de programación para robots.</p>
 
-Fuente:[Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/noticia/origen-concepto-inteligencia-artificial#:~:text=En%201956%20nace%20el%20t%C3%A9rmino,de%20%E2%80%9Chacer%20m%C3%A1quinas%20inteligentes.%E2%80%9D)
+Fuente: [Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/noticia/origen-concepto-inteligencia-artificial#:~:text=En%201956%20nace%20el%20t%C3%A9rmino,de%20%E2%80%9Chacer%20m%C3%A1quinas%20inteligentes.%E2%80%9D)
 
 ## Books
 
