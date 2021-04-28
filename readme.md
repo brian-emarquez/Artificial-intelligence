@@ -73,8 +73,8 @@ _Alan Turing_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <h4 align="center">  Matemático, lógico, informático teórico, criptógrafo, filósofo, biólogo teórico, inteligencia artificial, maratoniano y corredor de ultradistancia británico <h4>
       <img align="center" style="padding=0;" src="./images/turing.jpg" />
+      <h4 align="center">  Matemático, lógico, informático teórico, criptógrafo, filósofo, biólogo teórico, inteligencia artificial, maratoniano y corredor de ultradistancia británico <h4>
     </td>
   </tr>
 </table>
