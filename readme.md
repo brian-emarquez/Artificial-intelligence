@@ -110,7 +110,7 @@ Estos científicos partieron de tres fuentes principales: conocimientos sobre la
 
 ### Nacimiento y evolución
 
-*John McCarthy*
+ <td align="center"> John McCarthy </td>
 
 <table align="center">
   <tr>
