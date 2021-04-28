@@ -54,7 +54,7 @@
 
 <p>Cuando pensamos en inteligencia artificial es habitual pensar en una secuencia de imágenes futuristas en las que participa tecnología de última generación. Sin embargo, para que haya llegado hasta el punto donde se encuentra actualmente, ha tenido que afrontar diversos retos a lo largo de la historia. Te proponemos un recorrido por los acontecimientos más puntuales que giran en torno a la IA desde su nacimiento hasta la actualidad.</p>
 
-_Origen y evolución cronológica_
+### Origen y evolución cronológica
 
 <p>El origen de la inteligencia artificial es muy antiguo. Se remonta al 300 a.C. y aunque, por aquel entonces era impensable pensar en un concepto de tal magnitud, los siguientes hechos de la historia tuvieron un peso importante en su desarrollo.</p>
 
@@ -73,7 +73,7 @@ _Alan Turing_
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <h3 align="center">  Matemático, lógico, informático teórico, criptógrafo, filósofo, biólogo teórico, inteligencia artificial, maratoniano y corredor de ultradistancia británico 
+      <h4 align="center">  Matemático, lógico, informático teórico, criptógrafo, filósofo, biólogo teórico, inteligencia artificial, maratoniano y corredor de ultradistancia británico <h4>
       <img align="center" style="padding=0;" src="./images/turing.jpg" />
     </td>
   </tr>
