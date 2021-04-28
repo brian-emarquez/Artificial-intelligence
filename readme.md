@@ -146,13 +146,12 @@ Fuente: [Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/n
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Estadistica Descriptiva](https://edutin.com/library?categoryId=36)  | 001 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Estadistica Descriptiva](https://edutin.com/curso-de-estadistica-descriptiva-4045#:~:text=El%20curso%20de%20estad%C3%ADstica%20descriptiva,%2C%20tablas%2C%20f%C3%B3rmulas%20y%20gr%C3%A1ficos.)  | 001 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Books
 
 <table>
-
   <tr>
       <td>Name</td>
       <td>Authors</td>
@@ -161,17 +160,13 @@ Fuente: [Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/n
       <td>Link</td>
       <td>Password</td>
   </tr>
-
   </tr>
-
 
 </table>
 
 ## Paypal Donation
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
-## License 
-Todo acerca de la licencia [here](https://github.com/BrianMarquez3/Learning-Git/blob/master/LICENCE)
 
 
  <table align="center">
