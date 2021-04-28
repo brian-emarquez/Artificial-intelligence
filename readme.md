@@ -89,9 +89,9 @@ A través del cual, surge el conocido Test de Turing, una prueba de comunicació
 
 Ese mismo año, con una mayor innovación, eficiencia y cada vez más cerca de la inteligencia artificial, Isaac Asimov, en su escrito de ciencia ficción “Círculo Vicioso” argumenta las leyes de la robótica, aquellas que todo robot debe cumplir. Estas son:
 
-**Los robots no podrán dañar al ser humano.*
-**Los robots cumplirán las órdenes designadas.*
-**Los robots protegerán su propia existencia siempre y cuando ésta no entre en conflicto con la primera o segunda ley antes propuestas.*
+_Los robots no podrán dañar al ser humano._ <br>
+_Los robots cumplirán las órdenes designadas._ <br>
+_Los robots protegerán su propia existencia siempre y cuando ésta no entre en conflicto con la primera o segunda ley antes propuestas._<br>
 
 <table align="center">
   <tr>
@@ -105,7 +105,7 @@ Ese mismo año, con una mayor innovación, eficiencia y cada vez más cerca de l
 
 <p>En 1943, Warren McCulloch y Walter Pitts presentaron su modelo de neuronas artificiales, el cual se considera el primer trabajo del campo de inteligencia artificial, aunque aún no había sido acuñado como tal.
 
-Estos científicos partieron de tres fuentes principales: conocimientos sobre la fisiología básica y funcionamiento de las neuronas en el cerebro, el análisis formal de la lógica preposicional de Russell y Whitehead y la teoría   de Allan Turin</p>
+Estos científicos partieron de tres fuentes principales: conocimientos sobre la fisiología básica y funcionamiento de las neuronas en el cerebro, el análisis formal de la lógica preposicional de Russell y Whitehead y la teoría   de Allan TurinG</p>
 
 
 
