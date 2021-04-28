@@ -89,9 +89,9 @@ A través del cual, surge el conocido Test de Turing, una prueba de comunicació
 
 Ese mismo año, con una mayor innovación, eficiencia y cada vez más cerca de la inteligencia artificial, Isaac Asimov, en su escrito de ciencia ficción “Círculo Vicioso” argumenta las leyes de la robótica, aquellas que todo robot debe cumplir. Estas son:
 
-_Los robots no podrán dañar al ser humano._ <br>
-_Los robots cumplirán las órdenes designadas._ <br>
-_Los robots protegerán su propia existencia siempre y cuando ésta no entre en conflicto con la primera o segunda ley antes propuestas._<br>
+_>Los robots no podrán dañar al ser humano._ <br>
+_>Los robots cumplirán las órdenes designadas._ <br>
+_>Los robots protegerán su propia existencia siempre y cuando ésta no entre en conflicto con la primera o segunda ley antes propuestas._<br>
 
 <table align="center">
   <tr>
