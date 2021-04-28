@@ -107,7 +107,38 @@ _>Los robots protegerán su propia existencia siempre y cuando ésta no entre en
 
 Estos científicos partieron de tres fuentes principales: conocimientos sobre la fisiología básica y funcionamiento de las neuronas en el cerebro, el análisis formal de la lógica preposicional de Russell y Whitehead y la teoría   de Allan TurinG</p>
 
+### Nacimiento y evolución
 
+**John McCarthy*
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <h4 align="center"> Científico de la computación, matemático y profesor<h4>
+      <img align="center" style="padding=0;" src="./images/McCarthy.jpg" />
+    </td>
+  </tr>
+</table>
+
+<p>En 1956 nace el término inteligencia artificial gracias al informático John McCarthy y a la ayuda de Marvin Minsky y Claude Shannon. Este concepto designado en la conferencia de Dartmouth definía la palabra como la ciencia e ingeniería de “hacer máquinas inteligentes.”
+
+Estos tres científicos plantearon hipótesis para los próximos años que situaban la tecnología y la inteligencia artificial como algo que conviviría con los seres humanos. Lo cierto es que no fue así, el desarrollo de este novedoso concepto se producirá lentamente y no es hasta la década de los 90 hasta que empieza a adoptarse como lo conocemos hoy en día.
+
+Asimismo, a John McCarthy también se le atribuye el diseño y creación de “LISP”, el primer lenguaje  que logró un procesamiento simbólico y no numérico.
+
+En esta transición, otro aspecto que contribuiría al desarrollo de la inteligencia artificial fue el diseño de la primera red neuronal artificial en el año 1957. Este hecho se le atribuye a Frank Rosenblatt.
+
+En esta transición, otro aspecto que contribuiría al desarrollo de la IA fue el diseño de la primera red neuronal artificial en el año 1957. Este hecho se le atribuye a Frank Rosenbalt
+
+ELIZA fue el otro punto de inflexión en el desarrollo de la inteligencia artificial. Este proyecto desarrollado por Joseph Weizenbaum (1966) en el Massachussets Institute of Technology (MIT) y es considerado el primer chatbot.
+
+Este dispositivo incorporaba el procesamiento del lenguaje natural humano y su objetivo principal era enseñar a los ordenadores a comunicarse con los seres humanos mediante su propio lenguaje y no mediante un lenguaje de programación.                                                                                                                                                               
+
+En 1970 se avecina el primer invierno de la inteligencia artificial, que supone una pérdida de financiación para tratar el tema básicamente porque las expectativas que se habían planteado no se cumplieron.
+
+Otro de los hitos que supuso un punto de inflexión se produjo en 1973 cuando se creó “Wave” el primer lenguaje de programación para robots.</p>
+
+Fuente:[Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/noticia/origen-concepto-inteligencia-artificial#:~:text=En%201956%20nace%20el%20t%C3%A9rmino,de%20%E2%80%9Chacer%20m%C3%A1quinas%20inteligentes.%E2%80%9D)
 
 ## Books
 
