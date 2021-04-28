@@ -96,6 +96,7 @@ Ese mismo año, con una mayor innovación, eficiencia y cada vez más cerca de l
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
+      <h4 align="center"> Máquina de Turing<h4>
       <img align="center" style="padding=0;" src="./images/enigma.jpg" />
     </td>
   </tr>
