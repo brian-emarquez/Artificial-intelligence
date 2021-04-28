@@ -167,7 +167,7 @@ Fuente: [Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/n
 ## Paypal Donation
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
-
+---
 
  <table align="center">
     <tr>
