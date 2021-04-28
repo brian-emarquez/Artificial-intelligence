@@ -32,7 +32,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/main.jpg" />
+      <img align="center" style="padding=0;" src="./images/brain.gif" />
     </td>
   </tr>
 </table>
@@ -45,9 +45,13 @@
 |  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Guia Estadistica Descriptiva](#Guia-Estadistica-Descriptiva)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
-
-
-
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/main.jpg" />
+    </td>
+  </tr>
+</table>
 
 ----
 
