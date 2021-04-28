@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
     <img src="https://img.shields.io/badge/Plataform-Linux-darkred">
   </a><br>
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Artificial-intelligence?color=darkyellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Artificial-intelligence?color=darkred&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Artificial-intelligence?style=for-the-badge">
 </P>
 
