@@ -1,4 +1,4 @@
-<h2 align="center">  Artificial Intelligence (AI)  🤖 </h2>
+<h2 align="center">  Artificial Intelligence | Deep Dive Into The Modern AI Techniques  🤖 </h2>
 <!-- https://shields.io/ -->
 
 <p align="center">
