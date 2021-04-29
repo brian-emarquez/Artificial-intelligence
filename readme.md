@@ -65,7 +65,6 @@
 
 <p>30 años más tarde, Gottlob Frege a partir de los estudios de Boole obtiene la Lógica de Primer Orden, la cual contaba con mayor énfasis y una mejor expresión. Actualmente se sigue tomando como referencia.</p>
 
-
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
