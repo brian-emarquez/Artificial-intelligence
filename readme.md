@@ -73,12 +73,12 @@
 
 <p>30 años más tarde, Gottlob Frege a partir de los estudios de Boole obtiene la Lógica de Primer Orden, la cual contaba con mayor énfasis y una mejor expresión. Actualmente se sigue tomando como referencia.</p>
 
-_Alan Turing_
 
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/turing.jpg" />
+       <h4 align="center"> Alan Turing <h4>
+      <img align="center" style="padding=0;" src="./images/alan-turing.png" />
       <h4 align="center">  Matemático, lógico, informático teórico, criptógrafo, filósofo, biólogo teórico, inteligencia artificial, maratoniano y corredor de ultradistancia británico <h4>
     </td>
   </tr>
