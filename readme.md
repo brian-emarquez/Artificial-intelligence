@@ -43,6 +43,7 @@
 | ------------ |-------------|-------------- |----------------- |------------------ |---------------- |-------------- |------------- |
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Historia](#Historia)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Guia Estadistica Descriptiva](#Guia-Estadistica-Descriptiva)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  003   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Aprendizaje por refuerzo](#Aprendizaje-por-refuerzo)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 
 
 ----
@@ -142,6 +143,12 @@ Fuente: [Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/n
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Estadistica Descriptiva](https://edutin.com/curso-de-estadistica-descriptiva-4045#:~:text=El%20curso%20de%20estad%C3%ADstica%20descriptiva,%2C%20tablas%2C%20f%C3%B3rmulas%20y%20gr%C3%A1ficos.)  | 001 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+
+## Aprendizaje por refuerzo
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [rendizaje por refuerz](https://edutin.com/curso-de-estadistica-descriptiva-4045#:~:text=El%20curso%20de%20estad%C3%ADstica%20descriptiva,%2C%20tablas%2C%20f%C3%B3rmulas%20y%20gr%C3%A1ficos.)  | 001 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Books
