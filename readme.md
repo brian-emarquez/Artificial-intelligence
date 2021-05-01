@@ -149,7 +149,7 @@ Fuente: [Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/n
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/Reinforcement_learning_diagram.svg.png" />
+      <img align="center" style="padding=0;" src="./images/Reinforcemen.jpg" />
     </td>
   </tr>
 </table>
