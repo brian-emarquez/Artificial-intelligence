@@ -44,6 +44,8 @@
 |  001   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Historia](#Historia)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  002   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Guia Estadistica Descriptiva](#Guia-Estadistica-Descriptiva)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
 |  003   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Aprendizaje por refuerzo](#Aprendizaje-por-refuerzo)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+|  004   |:heavy_check_mark: |<img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="25px"> | [Q-Learning](#Q-Learning)   | 🧠 | 💻 | 💾 | [ ⬅️ back](https://github.com/BrianMarquez3)| 
+
 
 
 ----
@@ -158,6 +160,11 @@ Fuente: [Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/n
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | [Aprendizaje por refuerzo](https://github.com/BrianMarquez3/Artificial-intelligence/tree/main/003%20Aprendisaje%20por%20refuerzo)  | 001 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
+## Q-Learning
+
+| File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| [Q-Learning](https://github.com/BrianMarquez3/Artificial-intelligence/tree/main/003%20Aprendisaje%20por%20refuerzo)  | 001 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 ## Books
 

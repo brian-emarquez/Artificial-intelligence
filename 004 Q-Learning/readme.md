@@ -1,0 +1,5 @@
+### Q-Learning
+
+Q-learning es una técnica de aprendizaje por refuerzo utilizada en aprendizaje automático. El objetivo del Q-learning es aprender una serie de normas que le diga a un agente qué acción tomar bajo qué circunstancias. No requiere un modelo del entorno y puede manejar problemas con transiciones estocásticas y recompensas sin requerir adaptaciones.
+
+Para cualquier proceso de decisión de Markov finito (PDMF) (finite Markov decision process en inglés), Q-learning encuentra una política óptima en el sentido de que maximiza el valor esperado de la recompensa total sobre todos los pasos sucesivos, empezando desde el estado actual.1​ Q-learning puede identificar una norma de acción-selección óptima para cualquier PDMF, dado un tiempo de exploración infinito y una norma parcialmente aleatoria1​ "Q" nombra la función que devuelve la recompensa que proporciona el refuerzo y representa la "calidad" de una acción tomada en un estado dado.2​
