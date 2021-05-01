@@ -156,7 +156,7 @@ Fuente: [Origen del concepto de Inteligencia Artificial](https://agenciab12.pe/n
 
 | File                       | Numeration  | Link        |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
 |----------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| [Arendizaje por refuerz](https://github.com/BrianMarquez3/Artificial-intelligence/tree/main/003%20Aprendisaje%20por%20refuerzo)  | 001 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
+| [Aprendizaje por refuerzo](https://github.com/BrianMarquez3/Artificial-intelligence/tree/main/003%20Aprendisaje%20por%20refuerzo)  | 001 | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#Table-of-Contents)
 
 
 ## Books
