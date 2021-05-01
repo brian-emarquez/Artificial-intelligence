@@ -19,3 +19,5 @@ _Sumarary_
 [Aprendizaje por refueszo](https://es.wikipedia.org/wiki/Aprendizaje_por_refuerzo)
 
 [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+
+[TensorFlow](https://www.tensorflow.org/overview/?hl=es_419)
